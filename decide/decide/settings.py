@@ -73,7 +73,7 @@ MODULES = [
     'voting',
 ]
 
-BASEURL = 'http://localhost:8000'
+BASEURL = 'https://dashboard.heroku.com/apps/decide-examen-alvmarsue'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
